@@ -1,0 +1,8 @@
+name: ServerWarp
+version: '${project.version}'
+main: com.cosine.serverwarp.main.ServerWarp
+authors: [ Cosine_A ]
+description: 번지 서버 이동 플러그인
+
+commands:
+  워프:
